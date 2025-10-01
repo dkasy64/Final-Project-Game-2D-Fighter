@@ -1,6 +1,6 @@
 # Final-Project-Game-2D-Fighter
 ## This game is 2D fighter containing two characters from some of my favorite cartoons
-### Settinggs PLAYER 1 CONTROLS
+### Settings PLAYER 1 CONTROLS
 MOVEMENT: WASD
 ATTACK: E
 PROJECTILE: Q
