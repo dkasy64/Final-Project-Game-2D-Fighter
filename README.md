@@ -13,3 +13,8 @@ ATTACK: SHIFT
 PROJECTILE: /
 
 INSTRUCTIONS: FIGHT!!!
+
+Link to Spritesheet artists: 
+https://www.deviantart.com/finhj/art/Satoru-Gojo-Shinjuku-Arc-Jus-Sprite-Sheet-By-Finhj-1084627848
+https://www.deviantart.com/fictionfight87/art/Super-Gumball-Sprite-Sheet-1050955129
+
